@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "vishal Yalameli",
+      "username": "vky",
+      "email": "vishal123@gmail.com",
+      "phone": "9665254982"
+    },
+    {
+      "id": "2",
+      "name": "Yash Surwace",
+      "username": "yash",
+      "email": "yash123@gmail.com",
+      "phone": "9665254980"
+    },
+    {
+      "id": "3",
+      "name": "Ram Surwace",
+      "username": "ram",
+      "email": "yash123@gmail.com",
+      "phone": "9665254980"
+    },
+    {
+      "id": "4",
+      "name": "Jay Mane",
+      "username": "jay",
+      "email": "jay12@gmail.com",
+      "phone": "2565451232"
+    }
+  ]
+}
