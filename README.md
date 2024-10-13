@@ -1,0 +1,1 @@
+A simple React application that demonstrates how to perform basic CRUD (Create, Read, Update, Delete) operations with a dynamic, interactive user interface. This project showcases how to manage a list of items (e.g., users, products) using React components and hooks
